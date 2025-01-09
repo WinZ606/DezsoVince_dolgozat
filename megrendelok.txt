@@ -1,0 +1,25 @@
+dátum$rendelés száma$e-mail cím
+2024.03.31$1$krumplifej@citromail.hu
+2024.03.31$2$kisspal@citromail.hu
+2024.03.31$3$szputnyik@gmail.com
+2024.03.31$4$krumplifej@merchant.org
+2024.03.31$5$eva2001@gmail.com
+2024.03.31$6$nagyatilla@gmail.com
+2024.03.31$7$zoltantoth@gmail.com
+2024.03.31$8$kisspal@gmail.com
+2024.03.31$9$nagyatilla@freemail.hu
+2024.03.31$10$krumplifej@citromail.hu
+2024.03.31$11$kovacs7@merchant.org
+2024.03.31$12$zoltantoth@gmail.com
+2024.03.31$13$kisspal@merchant.org
+2024.03.31$14$kovacs7@freemail.hu
+2024.03.31$15$fagylaltos@gmail.com
+2024.03.31$16$eva2001@merchant.org
+2024.03.31$17$kovacs7@golden.com
+2024.03.31$18$kisspal@freemail.hu
+2024.03.31$19$kisspal@merchant.org
+2024.03.31$20$krumplifej@citromail.hu
+2024.03.31$21$eva2001@merchant.org
+2024.04.01$120$nagyatilla@freemail.hu
+2024.04.03$121$nagyatilla@freemail.hu
+2024.03.31$100$eva2001@merchant.org
