@@ -2,6 +2,7 @@ import random
 
 def randomszam():
     lista = []
+    betus = ""
     for i in range(0,6,1):
         szam = random.randint(0,10)
         lista.append(szam)
@@ -19,12 +20,12 @@ def nagyobb(lista):
 esetek = nagyobb(szamlista)
 
 def konzol_kiir():
-    print("II/A, B, C:")
+    print("\nII/A, B, C:")
     print(szamlista)    
-    print("II/D, E:")
+    print("\nII/D, E:")
     print(f"Nagyobb számok száma: {esetek}.")
 
 def fajlba_ir(esetek):
     f = open("vegeredmeny.txt","a")
-    f.write("II/F:\n")
+    f.write("\nII/F:\n")
     f.write(f"Nagyobb számok száma: {esetek}.")

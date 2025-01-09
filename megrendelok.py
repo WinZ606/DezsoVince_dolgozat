@@ -23,7 +23,7 @@ def megrendelesek(sorok):
     szama = 0
     for i in range(0,len(sorok),1):
         szama += i
-    print("III/A, B:")
+    print("\nIII/A, B:")
     print(f"A megrendelések száma: {szama}")
 
 def krumplifej(sorok):
@@ -31,7 +31,7 @@ def krumplifej(sorok):
     for i in range(0,len(sorok),1):
         if sorok[i].email == "krumplifej@citromail.hu":
             kfej += 1
-    print("III/C:")
+    print("\nIII/C:")
     print(f"A „krumplifej@citromail.hu”  címhez tartozó megrendelések száma: {kfej}")
 
 def utolso(sorok):
@@ -40,5 +40,5 @@ def utolso(sorok):
     for i in range(0,len(sorok),1):
         if sorok[i].rendeles > maxindex:
             kiaz = sorok[i].email
-    print("II/D:")
+    print("\nIII/D:")
     print(f"A legutolsó rendeléshez tartozó email cím: {kiaz}")
